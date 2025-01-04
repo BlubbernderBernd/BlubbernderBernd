@@ -6,7 +6,7 @@
 
 - 📰 Preparing for [Necrosma](https://dsc.gg/necrosma)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: l3t0g4n on Discord</h3>
 <p align="left">
 </p>
 
