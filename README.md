@@ -2,7 +2,7 @@
 <h3 align="center">Frontend/Backend Developer</h3>
 
 
-- 🔭 I’m currently working on [KeksBot](https://dsc.gg/keksbot)
+- 🔭 I’m currently working on [KEKS](https://dsc.gg/keksbot)
 
 - 📰 Preparing for [Necrosma](https://dsc.gg/necrosma)
 
