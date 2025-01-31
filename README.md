@@ -1,8 +1,8 @@
 <h1 align="center">Hey! I'm Simon</h1>
-<h3 align="center">Frontend/Backend Developer</h3>
+<h3 align="center">Python Dev</h3>
 
 
-- 🔭 I’m currently working on [KEKS](https://dsc.gg/keksbot)
+- 🔭 I’m currently working on [KEKS](https://dsc.gg/keks-app)
 
 - 📰 Preparing for [Necrosma](https://dsc.gg/necrosma)
 
