@@ -5,9 +5,7 @@
 
 - Soon: Necrosma, Intertrack
 
-<h3 align="left">Connect with me: <a href="https://discord.com/" target="_blank">l3t0g4n</a> on Discord</h3>
-<p align="left">
-</p>
+- Connect with me: <a href="https://discord.com/" target="_blank">l3t0g4n on Discord</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
